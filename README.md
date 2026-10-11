@@ -16,15 +16,6 @@ $SongsFolder = "D:\Games\osu!\Songs"
 ```
 Save file and exit.
 
-Open Windows PowerShell in administrator mode.
-Allow running local scripts by typing command:
-```
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-```
-Run a script from path where it's located. For example if it's located on Desktop folder the command will be:
-```
-& "$env:USERPROFILE\Desktop\replace_bg.ps1"
-```
-**$env:USERPROFILE** is an environment variable which gets your windows username, you don't need to change it manually.
+Run Run_replace_bg.bat file
 
 If you run a script with osu! client opened then you have to press **f5** to refresh all the maps and apply changes.
