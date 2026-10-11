@@ -1,4 +1,4 @@
-# osu-mass-bg-changer
+# osu-mass-background-change
 Windows power shell script for mass changing background images in maps directory for osu! game.\
 This script replaces all images inside each map folder with the same randomly chosen image from source folder.
 
