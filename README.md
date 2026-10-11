@@ -7,7 +7,7 @@ First you have to create a folder and add some images which will replace old bac
 If you want to be able to revert changes made after running this script, you should first make a backup for your osu! Songs folder and run script after that, because this script replaces backgrounds without the possibility to revert changes made.  
 So if you want to keep a copy of old backgrounds, you should copy all the Songs folder somewhere out of osu! folder.
 
-After adding enough images to new images folder open script in text editor and put paths to your new images folder and path where your osu! maps are located.
+After adding enough images to new images folder open replace_bg.ps1 script file in text editor and put paths to your new images folder and path where your osu! maps are located.
 
 For example 1 and 2 line of code should look something like this:
 ```
